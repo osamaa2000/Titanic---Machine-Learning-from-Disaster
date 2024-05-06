@@ -1,5 +1,3 @@
-Here's a revised README for your GitHub repository on the Titanic Machine Learning from Disaster project:
-
 # Titanic - Machine Learning from Disaster
 
 Welcome to my project on the Titanic Machine Learning from Disaster challenge! This repository showcases my approach to building a machine learning model that predicts passenger survival on the Titanic. By exploring and refining the dataset, I aimed to improve accuracy and derive valuable insights.
